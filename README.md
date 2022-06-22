@@ -22,8 +22,9 @@ Debe seguir las siguientes instrucciones:
 <p>Para la base de datos se utilizo un ORM llamado Eloquent, es una herramienta de Laravel y sirve para mapear la BD.</p>
 <br>
 
-<h3>FUNCIONAMIENTO:</h3>
-<p>En en proyecto se desarrollo no solo la transaccion si no tambien se puede registrar usuarios y crear cuentas para hacer transferencias</p>
+<h3>Javascript:</h3>
+<p>Se utiliza en el front y en este caso se uso para que cuando el usuario vaya a eliminar a un producto, arroje una ventada modal de advertencia,</p>
+<p>ademas el modal es solo 1, no se repite codigo. con JS se puede hacer que por medio de rutas se elimine los empleado y generar los modales sin repetir codigo.</p>
 
 
 <br>
